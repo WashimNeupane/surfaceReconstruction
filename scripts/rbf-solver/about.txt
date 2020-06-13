@@ -1,0 +1,1 @@
+This folder contains the radial basis solver functions, best plane generator along with other computational functions such as centroid finding, cylinder generation, triangulation generation and so on. 
