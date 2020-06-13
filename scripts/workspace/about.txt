@@ -1,0 +1,3 @@
+This folder contains the necessary data points required for calculations. 
+NOTE: This is intended for demo only. So the actual 3D point cloud data is not used. Instead they have been translated 
+      to MATLAB workspaces. 
