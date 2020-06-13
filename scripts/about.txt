@@ -1,0 +1,3 @@
+-The workspace folders contains some data points that were processed from a larger 3D point cloud data for a demo run. 
+-To run this program, import all files inside this folders to MATLAB workspace.
+-Run.m is the main program to call all other functions. 
